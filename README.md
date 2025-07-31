@@ -1,3 +1,4 @@
+<img src="https://cdn2.f-cdn.com/ppic/283334770/logo/86911945/ayinG/CROPPED_profile_logo_Facebook_86911945.jpg?image-optimizer=force&format=webply&width=336">
 <h1 align="center">Hi 👋, I'm Mahmudur R.</h1>
 <h3 align="center">Freelance Web Developer | PHP, JavaScript, WordPress Specialist</h3>
 
