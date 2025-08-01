@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mahmud/mahmud/main/banner.png" alt="Mahmud's GitHub Banner" width="800" height="200" />
-</div>
+<img src="https://raw.githubusercontent.com/devmahmuud/devmahmuud/refs/heads/main/banner.png">
 <h1 align="center">Hi 👋, I'm Mahmudur R.</h1>
 <h3 align="center">Freelance Web Developer | PHP, JavaScript, WordPress Specialist</h3>
 
